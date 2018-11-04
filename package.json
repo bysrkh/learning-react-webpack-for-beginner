@@ -1,0 +1,12 @@
+{
+  "name": "learning-react-webpack-for-beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hello": "echo \"Hello, Rizka Julia\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL"
+}
